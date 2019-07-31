@@ -1,4 +1,4 @@
-package com.auth0.redditapi;
+package com.auth0.troubles;
 
 import com.auth0.spring.security.api.JwtWebSecurityConfigurer;
 import org.springframework.beans.factory.annotation.Value;

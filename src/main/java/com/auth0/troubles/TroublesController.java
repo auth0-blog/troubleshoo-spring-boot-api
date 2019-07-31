@@ -1,10 +1,10 @@
-package com.auth0.redditapi;
+package com.auth0.troubles;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class NewsController {
+public class TroublesController {
 
     @GetMapping("/")
     public String helloWorld() {

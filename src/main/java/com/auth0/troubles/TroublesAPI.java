@@ -1,13 +1,13 @@
-package com.auth0.redditapi;
+package com.auth0.troubles;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RedditApiApplication {
+public class TroublesAPI {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RedditApiApplication.class, args);
+		SpringApplication.run(TroublesAPI.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.auth0.redditapi;
+package com.auth0.troubles;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
